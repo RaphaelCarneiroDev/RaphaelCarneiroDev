@@ -1,8 +1,9 @@
 ## Olá! Eu sou RaphaelCarneiroDev
 
 
-- 🔭 Hoje eu estou a procura de um estágio
+- 🔭 A procura de uma oportunidade
 - 🌱 Estudando Python, React e SQL
+- 👨‍💻 Estudando Estruturas de Dados e Algoritmos
 - 📚 Estudante de Ciência e Tecnologia da UFBA
 
 <div style="display: inline_block"><br>
