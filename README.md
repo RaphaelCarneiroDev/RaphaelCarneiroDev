@@ -51,24 +51,6 @@ Atualmente desenvolvo projetos que unem teoria e prática, buscando escrever có
 
 <td width="50%">
 
-## 🌳 Estruturas de Dados
-
-Implementação de TADs, algoritmos de ordenação e análise de complexidade desenvolvidos durante a disciplina de Estruturas de Dados.
-
-**Tecnologias**
-
-`Python`
-`Algoritmos`
-`TAD`
-
-<a href="https://github.com/RaphaelCarneiroDev/Estruturas-de-dados_Algoritmo-de-ordenacao">
-Ver repositório →
-</a>
-
-</td>
-
-<td width="50%">
-
 ## 📱 Cadastro Geral Mercosul
 
 Sistema para integração de bases de dados utilizando Radix Sort e Counting Sort para ordenação linear de milhões de registros.
@@ -79,10 +61,30 @@ Sistema para integração de bases de dados utilizando Radix Sort e Counting Sor
 `CSV`
 `Radix Sort`
 
-<a href="https://github.com/RaphaelCarneiroDev/Cadastro-Geral-de-Aparelhos-Celulares-Mercosul">
+<a href="https://github.com/RaphaelCarneiroDev/Estruturas-de-dados_Algoritmo-de-ordenacao">
 Ver repositório →
 </a>
 
+## 🚢 Simulador de Operações Portuárias
+
+Simulação de um sistema de gerenciamento portuário desenvolvida em **Python**, utilizando exclusivamente **Tipos Abstratos de Dados (TADs)** implementados do zero.
+
+**Tecnologias**
+
+`Python`
+`Algoritmos`
+`TAD`
+`Pilhas`
+`Filas`
+`LinkedLists`
+
+<a href="https://github.com/RaphaelCarneiroDev/Simulador_Portuario">
+Ver repositório →
+</a>
+
+</td>
+
+<td width="50%">
 </td>
 
 </tr>
