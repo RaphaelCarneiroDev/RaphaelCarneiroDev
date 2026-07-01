@@ -1,7 +1,7 @@
 # Olá! 👋 Eu sou Raphael Carneiro
 
-🎓 Estudante de **Ciências e Tecnologia**
-💻 Desenvolvedor de Software em formação
+🎓 Estudante de **Ciências e Tecnologia** "\n"
+💻 Desenvolvedor de Software em formação "\n"
 📚 Apaixonado por Algoritmos, Estruturas de Dados e desenvolvimento de soluções eficientes.
 
 ---
