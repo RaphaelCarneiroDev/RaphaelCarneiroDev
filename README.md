@@ -1,103 +1,128 @@
-# Olá! 👋 Eu sou Raphael Carneiro
+<h1 align="center">Olá, eu sou Raphael Carneiro 👋</h1>
 
-* 🎓 Estudante de **Ciências e Tecnologia** 
-* 💻 Desenvolvedor de Software em formação
-* 📚 Apaixonado por Algoritmos, Estruturas de Dados e desenvolvimento de soluções eficientes.
+<p align="center">
+Estudante de Ciências e Tecnologia • Desenvolvedor de Software
+</p>
+
+<p align="center">
+Apaixonado por algoritmos, estruturas de dados e desenvolvimento back-end.
+Construindo soluções eficientes e evoluindo continuamente como desenvolvedor.
+</p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Ciências e Tecnologia e gosto de entender como a tecnologia funciona "por baixo dos panos". Por isso, tenho dedicado grande parte dos meus estudos ao desenvolvimento de algoritmos, estruturas de dados e análise de complexidade, sempre buscando escrever código limpo, organizado e eficiente.
+🎓 Estudante de Ciências e Tecnologia
 
-Tenho interesse em desenvolvimento de software, back-end, programação Python e tecnologias voltadas à resolução de problemas reais.
+💡 Tenho interesse em:
 
-Atualmente estou construindo um portfólio que demonstra minha evolução técnica por meio de projetos acadêmicos, desafios de programação e aplicações práticas.
+- Estruturas de Dados
+- Algoritmos
+- Desenvolvimento Back-end
+- Inteligência Artificial
+- Segurança de Software
+
+Atualmente desenvolvo projetos que unem teoria e prática, buscando escrever código limpo, eficiente e bem documentado.
 
 ---
 
 ## 🚀 Tecnologias
 
-### Linguagens
+<p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://skillicons.dev/icons?i=html" height="45"/>
+<img src="https://skillicons.dev/icons?i=css" height="45"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
 
-### Ferramentas
-
-* Git
-* GitHub
-* VS Code
-* Visual Studio
-* Linux (básico)
-
-### Estudando atualmente
-
-* Estruturas de Dados
-* Algoritmos
-* Programação Orientada a Objetos
-* Árvores
-* Heaps
-* Desenvolvimento Back-end
+</p>
 
 ---
 
-## 📂 Projetos em destaque
+# 🚀 Projetos em Destaque
 
-📌 **Simulador de Operações Portuárias**
+<table>
 
-Projeto desenvolvido utilizando diferentes Estruturas de Dados para simular operações de um porto, priorizando eficiência computacional e análise de complexidade.
+<tr>
+
+<td width="50%">
+
+## 🌳 Estruturas de Dados
+
+Implementação de TADs, algoritmos de ordenação e análise de complexidade desenvolvidos durante a disciplina de Estruturas de Dados.
+
+**Tecnologias**
+
+`Python`
+`Algoritmos`
+`TAD`
+
+<a href="https://github.com/RaphaelCarneiroDev/Estruturas-de-dados_Algoritmo-de-ordenacao">
+Ver repositório →
+</a>
+
+</td>
+
+<td width="50%">
+
+## 📱 Cadastro Geral Mercosul
+
+Sistema para integração de bases de dados utilizando Radix Sort e Counting Sort para ordenação linear de milhões de registros.
+
+**Tecnologias**
+
+`Python`
+`CSV`
+`Radix Sort`
+
+<a href="https://github.com/RaphaelCarneiroDev/Cadastro-Geral-de-Aparelhos-Celulares-Mercosul">
+Ver repositório →
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
 
 ---
 
-📌 **Biblioteca de Estruturas de Dados em Python**
+## 📊 Estatísticas
 
-Implementação manual de diversos TADs utilizados na disciplina de Estruturas de Dados, incluindo:
+<p align="center">
 
-* Vetores
-* Listas Encadeadas
-* Pilhas
-* Filas
-* Árvores Binárias de Busca (ABB)
-* Heaps Máximas
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=RaphaelCarneiroDev&show_icons=true&theme=github_dark&hide_border=true"/>
 
-Todos implementados sem utilizar estruturas prontas da linguagem, visando compreender seu funcionamento interno.
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelCarneiroDev&layout=compact&theme=github_dark&hide_border=true"/>
 
----
-
-📌 **Projeto Mercosul IMEI**
-
-Sistema desenvolvido para organização de bases de dados de aparelhos celulares do Mercosul.
-
-O projeto realiza:
-
-* Ordenação de registros
-* Remoção de duplicidades
-* Tratamento de grandes volumes de dados utilizando o IMEI como chave principal
+</p>
 
 ---
 
+## 📚 Atualmente estudando
 
-## 📈 Atualmente
-
-* 🎯 Buscando oportunidades de estágio e desenvolvimento profissional
-* 📚 Aprimorando conhecimentos em Desenvolvimento Web
-* 🧠 Estudando estruturas de dados avançadas
-* 🚀 Desenvolvendo projetos para fortalecer meu portfólio
+- Estruturas de Dados Avançadas
+- Algoritmos
+- Engenharia de Software
+- Desenvolvimento Web
+- Desenvolvimento Back-end
 
 ---
 
 ## 📫 Contato
+
 <div>
   <a href="https://instagram.com/rapha_s15" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:raphaelcarneiroufba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raphael-carneiro-75b176388/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
----
-
-> "A melhor forma de aprender é construir."
