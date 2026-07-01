@@ -49,7 +49,8 @@ Atualmente desenvolvo projetos que unem teoria e prática, buscando escrever có
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
+
 
 ## 📱 Cadastro Geral Mercosul
 
@@ -64,6 +65,9 @@ Sistema para integração de bases de dados utilizando Radix Sort e Counting Sor
 <a href="https://github.com/RaphaelCarneiroDev/Estruturas-de-dados_Algoritmo-de-ordenacao">
 Ver repositório →
 </a>
+</td>
+
+<td width="50%" valign="top">
 
 ## 🚢 Simulador de Operações Portuárias
 
@@ -84,14 +88,9 @@ Ver repositório →
 
 </td>
 
-<td width="50%">
-</td>
-
 </tr>
 
-<tr>
-
-<td>
+</table>
 
 ---
 
